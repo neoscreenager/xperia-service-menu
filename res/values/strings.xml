@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">XperiaServiceMenu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Xperia Service Menu</string>
+    <string name="xperia_menu_details">Xperia Service Menu is the hidden menu that could be used to know the internal info of xperia
+        devices, to change customization settings, run various service tests to check the performance of various compnents of the phone,
+        to the model info, software info and configuration info like rooting status,available speech codecs,IMEI number and working bands.
+    </string>
+
+</resources>
